@@ -1,0 +1,202 @@
+@media (max-width: 360px) {
+
+.header {
+ 	background: url('../img/header-360.jpg') no-repeat center top;	
+	width: 100%;
+	height: 640px;
+	padding: 0;
+	margin: 0;
+	margin-top: 0px;
+	display: block;
+	opacity: 1;
+	/*border: 1px solid #000; */
+}
+
+p {
+	color: red;
+}
+
+video {
+	width: 290px;
+	height: auto;
+	max-height: 100%;
+
+}
+
+.card {
+	font-size: 12px;
+	width: 300px;
+	text-align: center;
+
+}
+
+.cooperation-visagiste p {
+	text-align: center;
+	font-size: 12px;
+	line-height: 1.2;
+	padding-left: 50px;
+	color: #d2d;
+}
+
+
+
+.citata111  {
+	max-width: 350px;
+}
+
+.citata-font {
+    font-family: 'Marck Script', cursive;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    color: #a24a03;
+}
+
+.fox-logo {
+	width: 100px;
+	text-align: center;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.menu-top {
+
+}
+
+.menu {
+	padding: 0;
+	margin: 10px;
+}
+
+.menu-item {
+	padding-left: 0px;
+	padding-right: 7px;
+	margin: 0;
+	font-size: 10px;
+}
+
+.social {
+	margin: 5px;
+}
+
+.call-number {
+	padding-bottom: 10px: 
+}
+
+.call-number h3 {
+	text-align: center;
+	padding-top: 0px;
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.title-etc {
+	font-size: 12px;
+	line-height: 1.6;
+	margin: 0;
+	margin-top: 105px;
+}
+
+.citata-font p {
+	margin: 30px 0 0 0;
+}
+
+.citata2 {
+	padding: 10px 0 10px 0;
+}
+
+.camera img {
+	display: hidden;
+	width: 1px;
+	height: auto;
+}
+
+
+
+.photo-pic2 {
+	padding-top: 0px;
+}
+
+.portfolio-title {
+	padding-top: 10px;
+}
+
+.portfolio-preview {
+	margin-top: 5px;
+	 overflow:hidden;
+/*	border: 2px solid #361204;*/
+}
+
+.portfolio-preview p {
+	font-size: 12px;
+}
+
+
+.pt h1 {
+	font-size: 22px;
+}
+
+.video-preview {
+    padding: 0px;
+}
+
+
+.lamp-image {
+	padding-top: 30px;
+}
+
+.sertificate-img img {
+	width: 200px;
+	height: auto;
+}
+
+.sertificate-img h3 {
+
+	font-size: 14px;
+}
+
+.modalDialog {
+    font-size: 14px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+
+.button {
+	width: 100px;
+	padding-top: 5px;
+	font-size: 12px;
+	/*border: 1px solid #000; */
+}
+
+/* КНОПКА - информация о сотрудничестве - СТИЛЬ */
+.button-cooperation {
+  	font-size: 10px;
+}
+
+.cooperation-info {
+	font-size: 
+}
+
+.cooperation {
+	padding-top: 30px;
+	
+}
+
+.footer {
+
+	margin-top: 20px;
+}
+
+.contacts-footer {
+	text-align: center;
+	font-size: 12px;
+	margin-bottom: 0rem;
+}
+
+.developer-footer {
+	text-align: center;
+	font-size: 12px;
+}
+
+}
